@@ -2,7 +2,6 @@ import json
 from datetime import datetime, timedelta, timezone
 
 import boto3
-import pyrebase
 from chalice import Chalice
 import pyrebase
 
